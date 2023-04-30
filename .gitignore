@@ -1,1 +1,13 @@
 .idea
+/ProjData/Test/bedroom/*
+/ProjData/Test/coast/*
+/ProjData/Test/Forest/*
+/ProjData/Train/bedroom/*
+/ProjData/Train/Coast/*
+/ProjData/Train/Forest/*
+/AnalysisData/Train/bedroom/50/*
+/AnalysisData/Train/bedroom/200/*
+/AnalysisData/Train/Coast/50/*
+/AnalysisData/Train/Coast/200/*
+/AnalysisData/Train/Forest/50/*
+/AnalysisData/Train/Forest/200/*

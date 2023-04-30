@@ -1,0 +1,1 @@
+Add the project images into the corresponding directories in ProjData, either manually folder by folder or by replacing the ProjData folder with the one provided by the professor. Make sure not to commit the image files you've added or data you've saved, as it is very large and shouldn't be stored in the repository.
